@@ -30,11 +30,8 @@ img {
 .plants {
   display: flex;
   justify-content: center;
-  gap: 52px;
+  gap: 50px;
 }
-.plant01,
-.plant02,
-.plant03,
-.plant04 {
+.text {
   max-width: 200px;
 }
